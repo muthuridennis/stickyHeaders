@@ -1,0 +1,20 @@
+{
+  "name": "stickyHeaders",
+  "homepage": "https://github.com/muthuridennis/stickyHeaders",
+  "authors": [
+    "LeEnno <enricoschlag@googlemail.com>"
+  ],
+  "description": "jQuery Plugin for iOS-like Sticky Headers",
+  "main": [
+    "jquery.stickyHeaders.js",
+    "jquery.stickyHeaders.css"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
+  "keywords": [
+    "stickyHeaders"
+  ],
+  "license": "MIT",
+  "private": true
+}
